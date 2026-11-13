@@ -15,11 +15,7 @@ export default function Navbar() {
                 <li><Link to="/about">About</Link></li>
             </ul>
 
-            
-
         </nav>
     </header>
     );
 }
-
-
