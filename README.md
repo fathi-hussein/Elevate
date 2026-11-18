@@ -1,16 +1,60 @@
-# React + Vite
+# Learning Resource Directory
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A community-focused learning resource directory designed to help learners in Kenya discover educational resources and online learning opportunities.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Finding suitable learning resources can be challenging, especially for beginners who may not know where to start.
 
-## React Compiler
+This project aims to make learning opportunities easier to discover by organising resources into accessible categories.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Target Users
 
-## Expanding the ESLint configuration
+- Students and recent school leavers in Kenya.
+- Beginners interested in developing digital skills.
+- Individuals looking for accessible learning opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Planned Pages
+
+1. **Home:** Introduction to the platform and featured learning resources.
+2. **Explore Resources:** A collection of learning resources organised into categories.
+3. **About:** Information about the platform and its purpose.
+
+## Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript (planned)
+
+## Project Structure
+
+```text
+learning-resource-directory/
+│
+├── index.html
+├── style.css
+├── README.md
+
+```
+
+## Getting Started
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+No installation or build tools are currently required.
+
+## Project Scope
+
+The project will be developed incrementally throughout the six-week internship, beginning with a semantic HTML page.
+
+## Project Status
+
+**Week 1 – Planning and First HTML Page**
+
+Currently in development.
+
+## Author
+
+Fathi Hussein
